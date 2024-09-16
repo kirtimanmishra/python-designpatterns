@@ -1,0 +1,4 @@
+Behavioral
+==============
+Strategy
+Observer
