@@ -2,3 +2,7 @@ Behavioral
 ==============
 Strategy
 Observer
+
+Creational
+==============
+Factory
